@@ -17,14 +17,14 @@ function Footer() {
       </span>
       <div className="md:flex mt-7 justify-between space-y-5">
         <p className="text-center text-sm  text-pepperRed">
-          &copy; 2023 JOJI. All Rights Reserved
+          &copy; 2023 scooby. All Rights Reserved
         </p>
         <span>
         
-          <a href="http://instagram.com/joji_int"><AiFillInstagram /></a>
+          <a href="http://instagram.com/scooby_int"><AiFillInstagram /></a>
           <AiOutlineWhatsApp />
           <AiOutlineTwitter />
-          <a href="mailto:jojifeedback@gmail.com?subject=Feedback"><SiGmail /></a>
+          <a href="mailto:scoobyfeedback@gmail.com?subject=Feedback"><SiGmail /></a>
         </span>
       </div>
     </footer>

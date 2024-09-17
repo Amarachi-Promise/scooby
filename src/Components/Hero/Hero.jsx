@@ -8,13 +8,13 @@ function Hero() {
     <section className="hero-section">
       <div className="hero-text-section">
         <p>
-          The Number one Online Desserts Ordering Service in
-          <span className="text-[#f03829]"> FUOYE</span>
+          The Number one Web 5 
+          <span className="text-[#f03829]"> e-Mall</span>
         </p>
         <p>
-          The leading online Dessert Ordering service that ensures you get your
-          desired food, drinks or snacks to satisfy your taste buds! No matter
-          where you may be in around Fuoye, we've got you covered!
+          The leading online Ordering service that ensures you get your
+          desired goods, ! No matter
+          where you may be in around the globe, we've got you covered!
         </p>
         <div>
           <NavLink to="/menu" className="order-now-btn">
